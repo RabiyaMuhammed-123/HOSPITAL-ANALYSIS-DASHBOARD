@@ -55,10 +55,6 @@ The dataset is included in this repository for educational and analytical purpos
 
 Dataset Source: Kaggle
 
-🖼️ Dashboard Preview
-
-"Hospital Analytics Dashboard" (Hospital Dashboard overview.png)
-
 📂 Project Files
 
 - Power BI Report: "Hospital_analysis_dashboard.pbix"
