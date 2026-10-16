@@ -57,7 +57,7 @@ Dataset Source: Kaggle
 
 🖼️ Dashboard Preview
 
-"Hospital Analytics Dashboard" (Hospital_Dashboard_Overview.PNG)
+"Hospital Analytics Dashboard" (Hospital_Dashboard_Overview.png)
 
 📂 Project Files
 
